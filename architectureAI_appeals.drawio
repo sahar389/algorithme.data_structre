@@ -48,7 +48,7 @@
             <mxPoint x="550" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Uq2RBtQLDzzegeiSoiI-18" value="&lt;b&gt;json ou bien text à voir selon notr&lt;/b&gt;e besoin pour l&#39;entrée de vectorisation&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2Uq2RBtQLDzzegeiSoiI-18" value="json&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="-10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2Uq2RBtQLDzzegeiSoiI-19" value="PDF Scannée" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
