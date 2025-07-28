@@ -154,14 +154,35 @@
         <mxCell id="2Uq2RBtQLDzzegeiSoiI-46" value="les rules et les partie juridique de l&#39;appeals . il faut avoir l&#39;idee ou l&#39;on stock et comment traiter pour l&#39;ia&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1020" y="390" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="QICffA6Hnbr4buHAxdtI-1" value="le question ouverts dans le raisonemment d&#39;IA :&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="-80" width="100" height="30" as="geometry" />
+        <mxCell id="QICffA6Hnbr4buHAxdtI-1" value="&lt;b&gt;le question ouverts dans le raisonemment d&#39;IA :&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="-80" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2Uq2RBtQLDzzegeiSoiI-43" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;le meta donnée , va etre utuliser&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dans quel step (&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: rgb(102, 255, 179);&quot;&gt;il peut etre , appeler dans le prompt comme ref&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; )&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;dans le raisonement de&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;L&#39;IA. en tenat compte que l&#39;IA prendre&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;uniquement&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;des vecteur en consederation&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-530" y="-20" width="370" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QICffA6Hnbr4buHAxdtI-2" value="le meta donnée va etre utiliser dans le prompt pour le loogic de régles à fixer avant de commencer&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-140" width="180" height="30" as="geometry" />
+        <mxCell id="QICffA6Hnbr4buHAxdtI-2" value="le meta donnée va etre utiliser dans le prompt pour le loogic de régles à fixer avant de commencer&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QICffA6Hnbr4buHAxdtI-3" value="les documents envoyée par Jean , comment on va implémenter ce logique pour le LLM&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="80" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QICffA6Hnbr4buHAxdtI-4" value="on va faire un classification des informations et on va implémenter chaque logiue pour l&#39;agent qu&#39;il convient :&amp;nbsp;&lt;div&gt;.les rules eliminatoitres dans le prompt , il faut , le traiter avant de commencer meme le raisonement (pour ce sprint il vont etre non utiliser en attondons la crétion d&#39;API dans le 2 eme sprint)&amp;nbsp;&lt;/div&gt;&lt;div&gt;pour le template dossier : Templates de base,&amp;nbsp; on va prendre en considératin pour l&#39;agent de rédaction selon ces template il faut faire un classifaction avant&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="170" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QICffA6Hnbr4buHAxdtI-6" value="&lt;b&gt;les points qu&#39;ils faut régler avant de commencer&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="340" width="50" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="QICffA6Hnbr4buHAxdtI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QICffA6Hnbr4buHAxdtI-6" target="QICffA6Hnbr4buHAxdtI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QICffA6Hnbr4buHAxdtI-10" value="activation de services d&#39;orchestration de SAP pour le data masking&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="440" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QICffA6Hnbr4buHAxdtI-11" value="&lt;div&gt;activation de modéle de llm qu&#39;on va tester (dans la comparaisons on va se focalisee sur le cout, le type de reponse et sur le modele d&#39;embeddings disponible qui sont compatible avec le modele choisis de LLM&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="520" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QICffA6Hnbr4buHAxdtI-14" value="le logique d&#39;ocr on va prendre pour le moments tous le documents . dans le sprint 2 on va se focalise sur le séparation entere la demande et les pices justificatifs&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="640" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
