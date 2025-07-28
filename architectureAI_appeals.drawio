@@ -181,8 +181,17 @@
         <mxCell id="QICffA6Hnbr4buHAxdtI-11" value="&lt;div&gt;activation de modéle de llm qu&#39;on va tester (dans la comparaisons on va se focalisee sur le cout, le type de reponse et sur le modele d&#39;embeddings disponible qui sont compatible avec le modele choisis de LLM&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-520" y="520" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QICffA6Hnbr4buHAxdtI-14" value="le logique d&#39;ocr on va prendre pour le moments tous le documents . dans le sprint 2 on va se focalise sur le séparation entere la demande et les pices justificatifs&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QICffA6Hnbr4buHAxdtI-14" value="le logique d&#39;ocr on va prendre pour le moments tous le documents . dans le sprint 2 on va se focalise sur le séparation entre la demande et les pices justificatifs&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-520" y="640" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QICffA6Hnbr4buHAxdtI-17" value="les pdf lez qu&#39;on a deja avec le refus ou l&#39;acceptation dans le pdf (pour le lez apres 01\03&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;\2024&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="830" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QICffA6Hnbr4buHAxdtI-18" value="il faut categorizes ces lez&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;selon les 7 types de reponses (ajoutanat le dtection de language , on parle de 14 types&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="780" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QICffA6Hnbr4buHAxdtI-19" value="il faut que LLM pour le base de données historrique raisone pour separer ces reponses pour learn from it la reponse&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="780" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
