@@ -193,6 +193,18 @@
         <mxCell id="QICffA6Hnbr4buHAxdtI-19" value="il faut que LLM pour le base de données historrique raisone pour separer ces reponses pour learn from it la reponse&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="780" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="QICffA6Hnbr4buHAxdtI-20" value="classifier selon les types de cause&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426.13" y="760" width="92.75" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QICffA6Hnbr4buHAxdtI-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="QICffA6Hnbr4buHAxdtI-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="620" as="sourcePoint" />
+            <mxPoint x="520" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QICffA6Hnbr4buHAxdtI-22" value="s&#39;appui sur le type de template&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="760" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
